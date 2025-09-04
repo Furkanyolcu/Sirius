@@ -105,17 +105,17 @@ Frontend şu uçları çağırır:
 ## 🚀 Kurulum ve Çalıştırma
 
 ### Frontend (React + Vite)
+
 ```bash
 npm install
 npm run dev
-
----
-
+```
 ### Backend (Python + Flask)
-
+```bash
 cd backend
 pip install -r requirements.txt
 python app.py
+```
 
 ## 🗄️ Veritabanı (PostgreSQL + PostGIS)
 
