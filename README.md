@@ -2,8 +2,7 @@
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/b68e86dc-dfad-42a7-9e67-b19e138f4131" />
 
-TEKNOFEST Geleceğin Sürdürülebilir Şehirleri Hackathonu için geliştirilmiştir.  
-Aşağıda **demo**, **kurulum** ve **.env** bilgileri yer alır.
+TEKNOFEST Geleceğin Sürdürülebilir Şehirleri Hackathonu için geliştirilmiştir. Aşağıda **demo**, **kurulum** ve **.env** bilgileri yer alır.
 
 ## 🔗 Bağlantılar
 - **GitHub Repo:** (https://github.com/KVRIND3S3N/afet-map)
