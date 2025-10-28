@@ -5,7 +5,6 @@
 TEKNOFEST Geleceğin Sürdürülebilir Şehirleri Hackathonu için geliştirilmiştir. Aşağıda **demo**, **kurulum** ve **.env** bilgileri yer alır.
 
 ## 🔗 Bağlantılar
-- **GitHub Repo:** (https://github.com/KVRIND3S3N/afet-map)
 
 <img width="1000" alt="Ekran görüntüsü 2025-09-04 231210" src="https://github.com/user-attachments/assets/323cd774-c90f-487c-8189-75fb2dfd9dc5" />
 
